@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#head{
+    font-size: 60px;
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    display: flex;
+    margin: 5%;
+}
+#p-massage{
+    font-size: 25px;
+}
