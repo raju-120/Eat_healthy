@@ -3,6 +3,7 @@ body{
 }
 #head{
     font-size: 50px;
+    color:rgba(7, 7, 7, 0.707);
 }
 .orange{
     color: orange;
@@ -22,6 +23,7 @@ body{
     margin-bottom: 10%;
     text-align: justify;
     padding: 20px;
+    color:rgba(106, 98, 98, 0.707);
 }
 .btn{
     text-decoration: none;
@@ -34,8 +36,41 @@ body{
 #about-me{
     text-align: center;
     font-size: 40px;
+    color: rgba(11, 6, 6, 0.351);
 }
 .middle-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 }
+.mid_section{
+    margin-bottom: 100px;
+    text-align: justify;
+    padding: 10px;
+}
+ /*-------Recipies section-----*/ 
+
+.recipies-head{
+    text-align: center;
+    font-size: 5vh;
+    color: rgba(11, 6, 6, 0.351);
+}
+.recip_p{
+    text-align: center;
+    padding: 25px;
+}
+
+.flexable{
+    display: flex;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+}
+
+figcaption {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: end;
+  }
