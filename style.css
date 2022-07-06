@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 #head{
-    font-size: 60px;
+    font-size: 50px;
 }
 .orange{
     color: orange;
@@ -18,5 +18,24 @@ body{
     margin: 5%;
 }
 #p-massage{
-    font-size: 25px;
+    font-size: 140%;
+    margin-bottom: 10%;
+    text-align: justify;
+    padding: 20px;
+}
+.btn{
+    text-decoration: none;
+    padding: 25px;
+    color: white;
+    border-radius: 50px;
+    background-image: linear-gradient(tomato,orange);
+}
+/*---------About Me Section-----*/
+#about-me{
+    text-align: center;
+    font-size: 40px;
+}
+.middle-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
 }
